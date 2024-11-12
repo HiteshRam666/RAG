@@ -2,6 +2,9 @@
 
 Combining the power of **retrieval-based** and **generative models** to provide accurate, context-aware responses! This repository implements RAG for enhanced information retrieval and response generation.
 
+![RAG](https://github.com/user-attachments/assets/cf8b4253-31c7-4df9-8fee-a97a75db2f10)
+
+
 ## 🌟 Key Features
 
 - 🔍 **Document Retrieval**: Finds relevant documents or passages based on user queries.
